@@ -29,7 +29,7 @@ define('DB_USER', 'findapea');
 define('DB_PASSWORD', 'INme3377..');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost:3306');
+define('DB_HOST', 'us44.siteground.us:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');

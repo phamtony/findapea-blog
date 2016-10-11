@@ -23,10 +23,10 @@
 define('DB_NAME', 'findapea_blog');
 
 /** MySQL database username */
-define('DB_USER', 'findapea');
+define('DB_USER', 'findapea_admin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'INme3377..');
+define('DB_PASSWORD', 'TRfl6987..!!');
 
 /** MySQL hostname */
 define('DB_HOST', 'us44.siteground.us:3306');
